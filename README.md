@@ -71,7 +71,7 @@ Example call:
 
 ##  Citation:
 
-The MuSe2022 baseline paper is only available in a preliminary version as of now.
+The MuSe2022 baseline paper is available as a preprint [here](https://www.researchgate.net/publication/359875358_The_MuSe_2022_Multimodal_Sentiment_Analysis_Challenge_Humor_Emotional_Reactions_and_Stress)
 
 MuSe 2021 baseline paper:
 
@@ -85,17 +85,3 @@ MuSe 2021 baseline paper:
 }
 
 ```
-
-
-
-## Acknowledgement & Contributors ✨ : 
-We were inspired by our last year's baseline models (https://github.com/lstappen/MuSe2021) and some of the winners to create this baseline code. Thanks to all who contributed, especially:
-
-<table>
-  <tr>
-    <td align="center">
-
-<a href="https://github.com/lc0197"><img src="https://avatars.githubusercontent.com/u/44441963?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lukas</b></sub></a><br /><td align="center">
-
-<a href="https://github.com/aliceebaird"><img src="https://avatars.githubusercontent.com/u/10690171?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alice</b></sub></a><br />
-  </tr></table>
