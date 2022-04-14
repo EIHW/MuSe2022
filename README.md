@@ -80,6 +80,7 @@ The MuSe2022 baseline paper is available as a preprint [here](https://www.resear
   booktitle={Proceedings of the 3rd Multimodal Sentiment Analysis Challenge},
   year={2022},
   address = {Lisbon, Portugal},
+  publisher = {Association for Computing Machinery},
   note = {co-located with ACM Multimedia 2022, to appear}
 }
 
