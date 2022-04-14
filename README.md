@@ -73,6 +73,17 @@ Example call:
 
 The MuSe2022 baseline paper is available as a preprint [here](https://www.researchgate.net/publication/359875358_The_MuSe_2022_Multimodal_Sentiment_Analysis_Challenge_Humor_Emotional_Reactions_and_Stress)
 
+```bibtex
+@incollection{Christ22-TM2,
+  title={The MuSe 2022 Multimodal Sentiment Analysis Challenge: Humor, Emotional Reactions, and Stress},
+  author={Christ, Lukas and Amiriparian, Shahin and Baird, Alice and Tzirakis, Panagiotis and Kathan, Alexander and Müller, Niklas and Stappen, Lukas and Meßner, Eva-Maria and König, Andreas and Cowen, Alan and Cambria, Erik and Schuller, Bj\"orn W. },
+  booktitle={Proceedings of the 3rd Multimodal Sentiment Analysis Challenge},
+  year={2022},
+  note = {10 pages, to appear},
+}
+
+```
+
 MuSe 2021 baseline paper:
 
 ```bibtex
