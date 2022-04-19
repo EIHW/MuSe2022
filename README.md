@@ -1,6 +1,6 @@
 # MuSe-2022 Baseline Model: LSTM Regressor
 
-[Homepage](https://www.muse-challenge.org) || [Baseline Paper](http://dx.doi.org/10.13140/RG.2.2.33203.91681)
+[Homepage](https://www.muse-challenge.org) || [Baseline Paper](https://www.researchgate.net/publication/359875358_The_MuSe_2022_Multimodal_Sentiment_Analysis_Challenge_Humor_Emotional_Reactions_and_Stress)
 
 
 ## Sub-challenges and Results 
