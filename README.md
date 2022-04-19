@@ -4,7 +4,7 @@
 
 
 ## Sub-challenges and Results 
-For details, please see the [Baseline Paper](http://dx.doi.org/10.13140/RG.2.2.33203.91681). If you want to sign up for the challenge, please fill the form 
+For details, please see the [Baseline Paper](https://www.researchgate.net/publication/359875358_The_MuSe_2022_Multimodal_Sentiment_Analysis_Challenge_Humor_Emotional_Reactions_and_Stress). If you want to sign up for the challenge, please fill the form 
 [here](https://www.muse-challenge.org/challenge/participation) for MuSe-Humor and MuSe-Stress. For MuSe-Reaction, please contact competitions \[at\] hume.ai 
 
 * MuSe-Humor: predicting presence/absence of humor in football press conference recordings. 
