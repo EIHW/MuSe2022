@@ -112,9 +112,10 @@ def evaluate(task, model, data_loader, loss_fn, eval_fn, use_gpu=False, predict=
     with torch.no_grad():
         for batch, batch_data in enumerate(data_loader, 1):
             features, feature_lens, labels, metas = batch_data
-            if torch.any(torch.isnan(labels)):
-                print('No labels available, no evaluation')
-                return np.nan, np.nan
+            if predict is not True:
+                if torch.any(torch.isnan(labels)):
+                    print('No labels available, no evaluation')
+                    return np.nan, np.nan
 
             batch_size = features.size(0) if task!='stress' else 1
 
